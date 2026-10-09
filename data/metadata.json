@@ -1,0 +1,22 @@
+{
+  "verified": true,
+  "source_url": "https://sberindex.ru/ru/research/data-sense-opisanie-nabora-dannikh-khakatona-sberindeksa-po-munitsipalnim-dannim",
+  "archive_url": "https://www.sberbank.com/common/img/uploaded/files/pdf/sberindex/hackathonlicence.zip",
+  "dictionary_url": "https://sberindex.ru/ru/research/dataset-borders-and-changes-of-municipalities",
+  "retrieved_at": "2026-10-09",
+  "unit": "RUB",
+  "measure_kind": "modeled_average_cashless_spending_of_residents",
+  "disjoint_categories_verified": true,
+  "municipality_boundaries_verified": true,
+  "license": "CC BY-SA 4.0",
+  "period": ["2023-01", "2024-12"],
+  "scope_notes": "Источник семантики: PDF лицензии в официальном ZIP, прочитаны все 4 страницы. В описании столбец consumption, в фактическом parquet value. territory_id — неизменная территория. Оценки средних расходов жителей, а не оборот магазинов, суммарные расходы МО или доходы. Доли относятся к сумме пяти категорий. market_access — статический показатель 2024; расстояния — 31.12.2024. Названия — последняя версия справочника, начавшая действие не позднее 2024 года.",
+  "category_definitions": {
+    "Продовольствие": "Продукты, супермаркеты; включая алкоголь и табак",
+    "Здоровье": "Медицинские услуги, лекарства, медицинские товары",
+    "Маркетплейсы": "Многопрофильные онлайн-платформы; специализированные магазины классифицируются по товару",
+    "Общественное питание": "Кафе, рестораны, готовая еда и доставка",
+    "Транспорт": "Наземный общественный транспорт, такси, каршеринг, топливо, обслуживание авто и грузоперевозки; без авиационных и железнодорожных поездок",
+    "Все категории": "Тотал, включает пять перечисленных и другие категории; исключён из признаков"
+  }
+}

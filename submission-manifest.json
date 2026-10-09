@@ -1,0 +1,236 @@
+{
+  "purpose": "SberIndex competition 2026, clustering",
+  "raw_data": "Acquire separately from the official links in README.md",
+  "files": [
+    {
+      "file": ".gitignore",
+      "bytes": 575,
+      "sha256": "a5356df2169db6f521c56bc2b74f1023589cdcbf9f9981f6580b83711155e843"
+    },
+    {
+      "file": "DATA-LICENSE.md",
+      "bytes": 1989,
+      "sha256": "88e823fdd550fc30bb5b6bf770061c3c305d57ce19f1bafaf2d157b65d7dd3be"
+    },
+    {
+      "file": "LICENSE",
+      "bytes": 1311,
+      "sha256": "6926a859c126833166591d3f01c0a16285fec0508aff122f24f11c601f99dc0f"
+    },
+    {
+      "file": "README.md",
+      "bytes": 10100,
+      "sha256": "24a31d9aa08c9c0d69d9fa5fd7ab6b85da523ebe319e03a954685cb71b1f1054"
+    },
+    {
+      "file": "config.json",
+      "bytes": 220,
+      "sha256": "22c453a08e2cf0cf68987c3698adecf128517f2ffcc0827f9197982bc71c92ea"
+    },
+    {
+      "file": "data/metadata.json",
+      "bytes": 2488,
+      "sha256": "f299c9e3ddff0740ae189ea9fb3e93648e32f6a08cd4ce7c09b46893dd682b0f"
+    },
+    {
+      "file": "data/processed/excluded.csv",
+      "bytes": 18137,
+      "sha256": "2dc398d7ebf4f17158db523f385aa57a9879c3c22a284d8b51b9d81fab9bcafb"
+    },
+    {
+      "file": "data/processed/municipalities.csv",
+      "bytes": 380131,
+      "sha256": "8400df584bd7bafb4193adb84c8e5010c8b45f1e36306fcf144af13b303898e2"
+    },
+    {
+      "file": "data/processed/panel-audit.json",
+      "bytes": 997,
+      "sha256": "86efbad83404e9565250ef22320cea80bcb1c277926bd3948dafe49870c4eb6f"
+    },
+    {
+      "file": "docs/application-draft.md",
+      "bytes": 3112,
+      "sha256": "c744368723f9ebcb2d638062157bd66c4b8c00195d6496baa6d357bb41a53f5a"
+    },
+    {
+      "file": "docs/competition.md",
+      "bytes": 3737,
+      "sha256": "9e6026cc850410510a45e94c50fac6698e880fa77a80ed6e234c2a8eded63e52"
+    },
+    {
+      "file": "docs/methodological-report.md",
+      "bytes": 13962,
+      "sha256": "a1fa1f45cc39a14ad0ecd25d9b8d3a47d49f4ee278b3ab56343d3654ecdd7228"
+    },
+    {
+      "file": "docs/methodology-design.md",
+      "bytes": 1687,
+      "sha256": "1edc8e70135909937575fa59125607125de9d9e7058d1dec46c3e99d80c4d337"
+    },
+    {
+      "file": "docs/metrics.md",
+      "bytes": 5646,
+      "sha256": "b7d0235d78b41aa1a8dc9180817a62c3ce46afcf6f60593d8d828fc9895dfdf9"
+    },
+    {
+      "file": "notebooks/economic-neighbors.ipynb",
+      "bytes": 396632,
+      "sha256": "9dc6e2aa635d52a59370d3c412f9cfcdf922242c8ebd9ea3728ee7f15b8050b5"
+    },
+    {
+      "file": "output/pdf/economic-neighbors-v3.pdf",
+      "bytes": 1856961,
+      "sha256": "1520fbc049e4a3fa1408e6d1f7a8c149660c5b496f6b552b4fcfc2199f7a21eb"
+    },
+    {
+      "file": "output/presentation/economic-neighbors-v3.pptx",
+      "bytes": 127296,
+      "sha256": "0b2581b4ccf024622f4999b1dd3e59fa9f13cce20fa65f4fbfb586e670bc2fca"
+    },
+    {
+      "file": "outputs/analysis/assignments.csv",
+      "bytes": 1529726,
+      "sha256": "830e56496ef042d4ee8c49a0e54500aa885e5676b647bc19b120df4f3f4c7ebe"
+    },
+    {
+      "file": "outputs/analysis/boundary-nodes.csv",
+      "bytes": 8048,
+      "sha256": "43d976daac6ac944436d0aa077d5c4d932fbbd63b4041f941a86b991ed39c276"
+    },
+    {
+      "file": "outputs/analysis/comparison.csv",
+      "bytes": 5967,
+      "sha256": "d2212b9e839f6ef615a16be3e74a6dd4170c7bf85b3707ecab6327b1653ce62e"
+    },
+    {
+      "file": "outputs/analysis/dynamics.csv",
+      "bytes": 5703,
+      "sha256": "2e228339f3eb3ea762011c60d768d723e7b3f612149038c12846b2fc255197d6"
+    },
+    {
+      "file": "outputs/analysis/explorer-nodes.json",
+      "bytes": 32320936,
+      "sha256": "0b3feb8186705688a38bb80bb399d77d1b597c878f08d4f2ada846e2e9999ebe"
+    },
+    {
+      "file": "outputs/analysis/market-associations.csv",
+      "bytes": 402,
+      "sha256": "27d95a2ca6c23c188563846e037fd71b492d3fb6ce0c9dd64673609a244be8a4"
+    },
+    {
+      "file": "outputs/analysis/model.npz",
+      "bytes": 3117996,
+      "sha256": "5f77922f7c11c7b554e9b1a45f2cec42302787b144499890f3ab756486aabcec"
+    },
+    {
+      "file": "outputs/analysis/profiles.csv",
+      "bytes": 11391,
+      "sha256": "22b6b157c1d84bddcdaefaaafacf88224f9fa208722ef3a716f73e276bfe3eda"
+    },
+    {
+      "file": "outputs/analysis/proximity-common-population.csv",
+      "bytes": 760,
+      "sha256": "7d20baad8bf9cd8658f412cd62152e5f0789875980f907ce24fcbc3b7870bc43"
+    },
+    {
+      "file": "outputs/analysis/proximity-full.csv",
+      "bytes": 565,
+      "sha256": "cd11e15513c412cf4719744546884eb30571be976698cf91164d6d8244b02f5c"
+    },
+    {
+      "file": "outputs/analysis/same-month-year.csv",
+      "bytes": 445,
+      "sha256": "fed4e7f70a5c11b84156c9b8422a5647986fe3a2531b3ad284ba56c913b026ec"
+    },
+    {
+      "file": "outputs/analysis/seed-stability.csv",
+      "bytes": 12559,
+      "sha256": "9a5d33938caa37690f669fefc605d14dc7ab3c4695a8f7d3a97e2abf4428b219"
+    },
+    {
+      "file": "outputs/analysis/selected.json",
+      "bytes": 483,
+      "sha256": "031eb4f993fc008a67f9274d756da9d99fc8458d1e5dd3fece05f1ea3a7a571e"
+    },
+    {
+      "file": "outputs/analysis/smoothing-sensitivity.csv",
+      "bytes": 1453,
+      "sha256": "b48d1d519387d508327b1fd3b3bed5610887967b138d4c9e731beca325975224"
+    },
+    {
+      "file": "outputs/analysis/summary.json",
+      "bytes": 36712,
+      "sha256": "7f5ad33d7bbc8326576431765722ffb74e92a34a62c4bd2e529146d58f151f4d"
+    },
+    {
+      "file": "outputs/analysis/transitions.csv",
+      "bytes": 4829,
+      "sha256": "e93b291953e0618ca0a8d3bd84c163f94175747e08db670a589a5b4b73604985"
+    },
+    {
+      "file": "outputs/input-inventory.json",
+      "bytes": 3139,
+      "sha256": "cdb96cacdec528037d4c92f1405ab5bdc7b1ef94ad166cefe90430063952093a"
+    },
+    {
+      "file": "requirements.txt",
+      "bytes": 209,
+      "sha256": "213fa6a544a27e5a30887d23e08aab6acb8dbb5f51881ba0c9810ddddd086d71"
+    },
+    {
+      "file": "src/__init__.py",
+      "bytes": 81,
+      "sha256": "0bc14be3f7c8588065c9934e430559630989c9fa794ba17f78a92b9ba9cd545f"
+    },
+    {
+      "file": "src/build_evidence.py",
+      "bytes": 22173,
+      "sha256": "a5c1aed361622b373cb5b6c0a3db645b37f49238a0f6c00c43f04ae6a4477316"
+    },
+    {
+      "file": "src/build_notebook.py",
+      "bytes": 17655,
+      "sha256": "3bbbd73c57a4964e4fcc751c0c9ced12840d0fbdf114d0df2707ef32f56ad0bd"
+    },
+    {
+      "file": "src/execute_notebook.py",
+      "bytes": 1545,
+      "sha256": "4d0996cf8a61f0bc39a342e8d47e9d27006fd9dce5a0f529f054725e43f86047"
+    },
+    {
+      "file": "src/inventory.py",
+      "bytes": 1741,
+      "sha256": "ab8fcf4cac0edf280ef245fb219e8aafc791448f35591c63918c8ab0973e6288"
+    },
+    {
+      "file": "src/metrics.py",
+      "bytes": 3376,
+      "sha256": "cf0a9a8cb79239f5dd6d93ed8bac34536f3d9fb6593cca5aa59a9a91a69c7c2b"
+    },
+    {
+      "file": "src/network.py",
+      "bytes": 3069,
+      "sha256": "a427752b5c2807ecdcbedaf74558358b572495baecaa8babc207465ef873355d"
+    },
+    {
+      "file": "src/package_submission.py",
+      "bytes": 3935,
+      "sha256": "2092668b6a7b93c4577eb0eb33e3b6fc014c3970228bd61280a2a49b630b09c6"
+    },
+    {
+      "file": "src/pipeline.py",
+      "bytes": 14340,
+      "sha256": "07c8ea006c2dc41fbbc15ef526cb8a46ad3779c58ec3d4d92f3a6654810c25a8"
+    },
+    {
+      "file": "src/prepare.py",
+      "bytes": 4988,
+      "sha256": "b2a8c4b3187754a1993461c4b870243dde1daf61005a1832eb85725b0accbbd2"
+    },
+    {
+      "file": "tests/test_critical.py",
+      "bytes": 2596,
+      "sha256": "937da8219e61affc6f4c518578802f498c3163c2ab6c871646e0dbca57563d47"
+    }
+  ]
+}

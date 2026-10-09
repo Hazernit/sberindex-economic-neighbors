@@ -1,0 +1,20 @@
+{
+  "month": "2023-01",
+  "graph": "hellinger",
+  "method": "spectral",
+  "neighbors": 30,
+  "parameter": 3,
+  "clusters": 3,
+  "min_cluster_fraction": 0.12202380952380952,
+  "SW": 0.2508169646665255,
+  "CH": 948.7397102536719,
+  "DB": 1.2202361450963934,
+  "S_Dbw": 0.8883664638477641,
+  "AVI": 0.9370789456963654,
+  "AVU": 0.6666666666666666,
+  "MQ": 0.5305356827149859,
+  "edges": 39891,
+  "density": 0.019639903107645042,
+  "components": 1,
+  "largest_component_fraction": 1.0
+}

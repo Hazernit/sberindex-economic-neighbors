@@ -1,0 +1,114 @@
+{
+  "status": "inputs_present",
+  "files": [
+    {
+      "file": "hackathonlicence/connection.parquet",
+      "bytes": 21904682,
+      "sha256": "20cbd5213d3ac1d0a867f097b485431811614b283d7366eb5cba9f65dc80493d"
+    },
+    {
+      "file": "hackathonlicence/consumption.parquet",
+      "bytes": 2373939,
+      "sha256": "9833ddaaee7b2a182ed4cceeed16469031700ea87d508bd976150c6770ef8a61"
+    },
+    {
+      "file": "hackathonlicence/market_access.parquet",
+      "bytes": 25163,
+      "sha256": "434258afe322b7e6e6610b2552d129ae47094613de72dae3d13f6965a28d1dc1"
+    },
+    {
+      "file": "hackathonlicence/Данные_СберИндекс_лицензия.pdf",
+      "bytes": 538791,
+      "sha256": "030269e726f969250b911a1fcb72131a4b61c3952aad10c8470ce9c0736c472f"
+    },
+    {
+      "file": "hackathonlicence.zip",
+      "bytes": 19603203,
+      "sha256": "a9f932ff4096a7df797d1547987937f34d3995ac445b4748177114488d12b010",
+      "members": [
+        {
+          "name": "hackathonlicence/connection.parquet",
+          "bytes": 21904682,
+          "compressed_bytes": 18064537
+        },
+        {
+          "name": "hackathonlicence/consumption.parquet",
+          "bytes": 2373939,
+          "compressed_bytes": 1011307
+        },
+        {
+          "name": "hackathonlicence/market_access.parquet",
+          "bytes": 25163,
+          "compressed_bytes": 16979
+        },
+        {
+          "name": "hackathonlicence/Данные_СберИндекс_лицензия.pdf",
+          "bytes": 538791,
+          "compressed_bytes": 509292
+        }
+      ]
+    },
+    {
+      "file": "t_dict_municipal.rar",
+      "bytes": 26925727,
+      "sha256": "319ed22684b77716641bc15b61f7325adc44e9fc47e9be2973d88412d27d21f5"
+    },
+    {
+      "file": "t_dict_municipal_districts.xlsx",
+      "bytes": 322024,
+      "sha256": "4150658c3298fbc87ed79838f503f3a5b9a28da33257ff803c7d9231ddb775d6",
+      "members": [
+        {
+          "name": "[Content_Types].xml",
+          "bytes": 1168,
+          "compressed_bytes": 350
+        },
+        {
+          "name": "_rels/.rels",
+          "bytes": 588,
+          "compressed_bytes": 244
+        },
+        {
+          "name": "xl/_rels/workbook.xml.rels",
+          "bytes": 698,
+          "compressed_bytes": 243
+        },
+        {
+          "name": "xl/workbook.xml",
+          "bytes": 1105,
+          "compressed_bytes": 557
+        },
+        {
+          "name": "xl/sharedStrings.xml",
+          "bytes": 517353,
+          "compressed_bytes": 65440
+        },
+        {
+          "name": "xl/theme/theme1.xml",
+          "bytes": 6995,
+          "compressed_bytes": 1638
+        },
+        {
+          "name": "xl/styles.xml",
+          "bytes": 1966,
+          "compressed_bytes": 806
+        },
+        {
+          "name": "xl/worksheets/sheet1.xml",
+          "bytes": 1541684,
+          "compressed_bytes": 249003
+        },
+        {
+          "name": "docProps/core.xml",
+          "bytes": 645,
+          "compressed_bytes": 375
+        },
+        {
+          "name": "docProps/app.xml",
+          "bytes": 766,
+          "compressed_bytes": 394
+        }
+      ]
+    }
+  ]
+}

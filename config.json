@@ -1,0 +1,9 @@
+{
+  "seed": 42,
+  "neighbors": [10, 15, 30],
+  "cluster_counts": [3, 5, 8],
+  "louvain_resolutions": [0.5, 1.0, 1.5],
+  "min_cluster_fraction": 0.02,
+  "silhouette_sample_size": 2000,
+  "stability_seeds": [17, 31, 47]
+}
