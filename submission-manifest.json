@@ -19,8 +19,8 @@
     },
     {
       "file": "README.md",
-      "bytes": 10100,
-      "sha256": "24a31d9aa08c9c0d69d9fa5fd7ab6b85da523ebe319e03a954685cb71b1f1054"
+      "bytes": 10166,
+      "sha256": "276844a556f9e8e86d8c47f7e8a5e33d1bf37fb4cc4237ff6e0192c5710f6da4"
     },
     {
       "file": "config.json",
@@ -49,8 +49,8 @@
     },
     {
       "file": "docs/application-draft.md",
-      "bytes": 3112,
-      "sha256": "c744368723f9ebcb2d638062157bd66c4b8c00195d6496baa6d357bb41a53f5a"
+      "bytes": 3276,
+      "sha256": "978789e33c3b1fba61245221db810c5035ee3f09e3db73ce9889135b0151208f"
     },
     {
       "file": "docs/competition.md",

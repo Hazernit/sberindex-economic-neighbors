@@ -136,5 +136,7 @@ MIT распространяется на наши алгоритмы в `src/` 
 за метод и результаты; требование самостоятельной разработки дано в п.9.1.2
 [положения](https://sber.ru/common/assets/sber/sberindex_polozhenie_o_konkurse.pdf).
 
-Локальный комплект подготовлен для проверки. Публикация репозитория и отправка
-заявки — отдельные действия; описание для формы есть в `docs/application-draft.md`.
+Конкурсный комплект опубликован в
+[Hazernit/sberindex-economic-neighbors](https://github.com/Hazernit/sberindex-economic-neighbors).
+Заявка ещё не отправлена; готовое описание и ссылка для формы есть в
+[docs/application-draft.md](docs/application-draft.md).
