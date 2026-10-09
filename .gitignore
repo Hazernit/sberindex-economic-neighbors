@@ -2,8 +2,7 @@
 __pycache__/
 *.pyc
 .DS_Store
-.local-vpn/
-.local-presentation/
+.local-*/
 report/
 delivery/
 data/raw/*

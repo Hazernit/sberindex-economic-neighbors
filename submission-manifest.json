@@ -4,8 +4,8 @@
   "files": [
     {
       "file": ".gitignore",
-      "bytes": 575,
-      "sha256": "a5356df2169db6f521c56bc2b74f1023589cdcbf9f9981f6580b83711155e843"
+      "bytes": 552,
+      "sha256": "0354b4b8ced2132680a51d54e64c496da44bc1391d6ee8af63f68f97ea0534c0"
     },
     {
       "file": "DATA-LICENSE.md",
@@ -14,13 +14,13 @@
     },
     {
       "file": "LICENSE",
-      "bytes": 1311,
-      "sha256": "6926a859c126833166591d3f01c0a16285fec0508aff122f24f11c601f99dc0f"
+      "bytes": 1096,
+      "sha256": "6629645dfbdef9c81a39f970d7f899b22a8518c769266cfa33bca33b3c4d514c"
     },
     {
       "file": "README.md",
-      "bytes": 10239,
-      "sha256": "4e708a8d53c7b574cbfbf1c186c430fa3999a1a54a5202112136ddda3c5f127d"
+      "bytes": 9409,
+      "sha256": "eed5e75aa880596dba3162fdc218e9a5478ea3c31325c229222b01c512e22688"
     },
     {
       "file": "config.json",
@@ -49,18 +49,18 @@
     },
     {
       "file": "docs/application-draft.md",
-      "bytes": 3276,
-      "sha256": "978789e33c3b1fba61245221db810c5035ee3f09e3db73ce9889135b0151208f"
+      "bytes": 2680,
+      "sha256": "3b7bc52ad241ad440ba2e2e7ed22e6d10085647ccfc3cbef7f2ab373d01ee48f"
     },
     {
       "file": "docs/competition.md",
-      "bytes": 3737,
-      "sha256": "9e6026cc850410510a45e94c50fac6698e880fa77a80ed6e234c2a8eded63e52"
+      "bytes": 3452,
+      "sha256": "9d5051ca529610910e6ff3a38c2273c06cfc2fe0e0c72c348fd7d91916207349"
     },
     {
       "file": "docs/methodological-report.md",
-      "bytes": 13962,
-      "sha256": "a1fa1f45cc39a14ad0ecd25d9b8d3a47d49f4ee278b3ab56343d3654ecdd7228"
+      "bytes": 13892,
+      "sha256": "9403ed0d820a3d9e1edde2231c3f68b95a08d30b0cecdeb8e81da8b0b2a06291"
     },
     {
       "file": "docs/methodology-design.md",
@@ -74,8 +74,8 @@
     },
     {
       "file": "notebooks/economic-neighbors.ipynb",
-      "bytes": 396632,
-      "sha256": "9dc6e2aa635d52a59370d3c412f9cfcdf922242c8ebd9ea3728ee7f15b8050b5"
+      "bytes": 396942,
+      "sha256": "805b6912b43b64b2a6872078012e014ecfeb85965f50ee9270c372f41d34d5e1"
     },
     {
       "file": "output/pdf/economic-neighbors-v3.pdf",
@@ -84,8 +84,8 @@
     },
     {
       "file": "output/presentation/economic-neighbors-v3.pptx",
-      "bytes": 127296,
-      "sha256": "0b2581b4ccf024622f4999b1dd3e59fa9f13cce20fa65f4fbfb586e670bc2fca"
+      "bytes": 127600,
+      "sha256": "3065d7f31a52fb52c8eb85cfa5e97213bcca2aadae3feac54459d3ec5a262340"
     },
     {
       "file": "outputs/analysis/assignments.csv",
@@ -184,13 +184,13 @@
     },
     {
       "file": "src/build_evidence.py",
-      "bytes": 22173,
-      "sha256": "a5c1aed361622b373cb5b6c0a3db645b37f49238a0f6c00c43f04ae6a4477316"
+      "bytes": 22749,
+      "sha256": "91b5488b327093837db1a8cf7e4002e827c0662777e99023657b2d089c6e36e2"
     },
     {
       "file": "src/build_notebook.py",
-      "bytes": 17655,
-      "sha256": "3bbbd73c57a4964e4fcc751c0c9ced12840d0fbdf114d0df2707ef32f56ad0bd"
+      "bytes": 17939,
+      "sha256": "eaca1e9ab98ddbbbea0b66b1c984ff4ee28720c0d866b00df00293a57c85533b"
     },
     {
       "file": "src/execute_notebook.py",
