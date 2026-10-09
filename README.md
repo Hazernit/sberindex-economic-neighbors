@@ -138,5 +138,6 @@ MIT распространяется на наши алгоритмы в `src/` 
 
 Конкурсный комплект опубликован в
 [Hazernit/sberindex-economic-neighbors](https://github.com/Hazernit/sberindex-economic-neighbors).
-Заявка ещё не отправлена; готовое описание и ссылка для формы есть в
+Заявка отправлена; сайт подтвердил её получение сообщением
+«Спасибо за заявку!». Текст для формы сохранён в
 [docs/application-draft.md](docs/application-draft.md).
